@@ -7,6 +7,7 @@ Fetched from http://www2.informatik.uni-freiburg.de/~cziegler/BX/ <br/>
 There are three datasets that we have, we pre-processed them to feed to network, all steps are mentioned in the google colaboratory.
 ### Steps for using the Project :
 1. User Interface of web application is : 
+![Screenshot (151)](https://user-images.githubusercontent.com/45414198/116284034-3fb46d00-a7aa-11eb-815b-a7a89141624d.png)
 ### Steps for Cloning this project :
 1. Download Data.zip file mentioned, extract all three datasets and addd them to your drive in a folder named as Data.
 2. Clone the web application by the above given link and generate uplink key for application from Anvil and use it in google colab where we imported anvil sever library.
