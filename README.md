@@ -1,4 +1,11 @@
 # Book Recommender System
+This project is an execution of a book recommender system made by using Collaborative Filtering Algorithm and creating a web application for it.<br/>
+This project is an official submission for the **Software Engineering Project (CSD-327)** at *Department of Computer Science & Engineering, NIT Hamirpur(H.P).*<br/>
+##### Submitted By : 
+* Shivam Sharma - 185004
+* Vikrant Bhardwaj - 185007
+* Chandan Paul - 185042
+* Atul Thakur - 185050
 ### Web Application Link : [Link](https://book-recommender.anvil.app/)
 ### Google Colaboratory Link : [Click Here](https://colab.research.google.com/drive/1h9trROB9xrIhfS5zmlB-gHJWQRcNX3im?usp=sharing)
 ### Link at anvil.works to create the copy of web application : [Clone Here](https://anvil.works/build#clone:FXX7AGOTRWYZASHR=PNLGIWXEI4JYNMS2EAZNYOFY)
